@@ -1,0 +1,11 @@
+.heading {
+    font-size: 40px;
+    color: #b2b200;
+    margin: auto;
+    font-family: 'Rock Salt', cursive;
+    padding:10px;
+}
+
+.navbar {
+    background-color: #36454f;
+}

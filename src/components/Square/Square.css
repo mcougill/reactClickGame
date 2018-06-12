@@ -1,0 +1,8 @@
+.square {
+    width:175px;
+    height:175px;
+    border: 1px solid #000000;
+    border-radius: 6px;
+    cursor: pointer;
+    box-shadow: 2px 2px #36454f;
+}

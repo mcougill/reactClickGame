@@ -1,0 +1,26 @@
+.gamegrid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+    align-content: center;
+    justify-content: center;
+    margin-left:15%;
+}
+
+
+.score {
+    margin: 15px auto 0px auto;
+    max-width: 100%;
+    text-align: center;
+    color: #b2b200;
+    padding: 10px;
+    background-color:#36454f;
+}
+
+h4 {
+    margin-top:15px;
+    max-width: 100%;
+    text-align: center;
+    color:#36454f;
+    font-family: 'Montserrat', sans-serif;
+}
