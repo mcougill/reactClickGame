@@ -12,6 +12,7 @@ https://guarded-reef-67905.herokuapp.com/
 - React.js
 
 **Application Preview**
+<br/>
 <img width="1225" alt="screen shot 2018-06-29 at 8 55 50 pm" src="https://user-images.githubusercontent.com/32691396/42120334-396b43a0-7bdf-11e8-8644-48bf016ddde1.png">
 
 
